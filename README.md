@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-I have gotting Github on my iPhone, and I'm using windows 10 pro sandbox
-.
+- 
+I have gotting Github on my iPhone, and I'm using windows 10 pro sandbox now
 <!---
 Csjohnston233/Csjohnston233 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
